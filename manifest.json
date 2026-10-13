@@ -1,0 +1,22 @@
+{
+  "name": "Umar Idris Tankin Ruwa Students' Continuous Assessment Record",
+  "short_name": "Umar Idris CA",
+  "id": "umar-idris-ca-record-v39",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "scope": "./",
+  "background_color": "#edf3fa",
+  "theme_color": "#12345a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
